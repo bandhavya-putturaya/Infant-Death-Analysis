@@ -26,4 +26,13 @@ The interactive dashboard helps to track the following:
 🔹 Identified and flagged high-risk maternal cases
 🔹 Prepared structured dataset for analysis and visualization
 
+## 📈 Key Insights
 
+1. A significant proportion of deaths were non-preventable, highlighting clinical severity
+2. Low Birth Weight (LBW) and prematurity are major contributors
+3. Higher mortality observed in high-risk pregnancies
+4. Neonatal deaths exceed infant deaths, indicating early-life vulnerability
+5. Maternal conditions such as anaemia and hypertensive disorders show strong association
+
+## Dashbaord preview
+Infant & Neonatal Analysis Dashbaord []()
