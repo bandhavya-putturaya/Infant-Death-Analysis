@@ -17,7 +17,7 @@ The interactive dashboard helps to track the following:
 3. High-risk conditions for mothers and neonates.
 4. Helping healthcare authorities to prevent infant and neonatal deaths.
 
-# ⚙️ Dashboard Development & Data Analysis
+## ⚙️ Dashboard Development & Data Analysis
 
 🔹 Cleaned and standardized raw healthcare records
 🔹 Handled inconsistent and missing entries
@@ -25,3 +25,5 @@ The interactive dashboard helps to track the following:
 🔹 Grouped causes of death into meaningful categories
 🔹 Identified and flagged high-risk maternal cases
 🔹 Prepared structured dataset for analysis and visualization
+
+
