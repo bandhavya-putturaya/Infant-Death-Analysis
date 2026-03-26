@@ -19,10 +19,9 @@ The interactive dashboard helps to track the following:
 
 # ⚙️ Dashboard Development & Data Analysis
 
-Data Cleaning & Structuring
-Cleaned and standardized raw healthcare records
-Handled inconsistent and missing entries
-Categorized infant age at death (hours, days, months)
-Grouped causes of death into meaningful categories
-Identified and flagged high-risk maternal cases
-Prepared structured dataset for analysis and visualization
+🔹 Cleaned and standardized raw healthcare records
+🔹 Handled inconsistent and missing entries
+🔹 Categorized infant age at death (hours, days, months)
+🔹 Grouped causes of death into meaningful categories
+🔹 Identified and flagged high-risk maternal cases
+🔹 Prepared structured dataset for analysis and visualization
