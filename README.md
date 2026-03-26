@@ -16,3 +16,13 @@ The interactive dashboard helps to track the following:
 2. Preventable vs. non-preventable Infant and neonatal deaths.
 3. High-risk conditions for mothers and neonates.
 4. Helping healthcare authorities to prevent infant and neonatal deaths.
+
+# ⚙️ Dashboard Development & Data Analysis
+
+Data Cleaning & Structuring
+Cleaned and standardized raw healthcare records
+Handled inconsistent and missing entries
+Categorized infant age at death (hours, days, months)
+Grouped causes of death into meaningful categories
+Identified and flagged high-risk maternal cases
+Prepared structured dataset for analysis and visualization
