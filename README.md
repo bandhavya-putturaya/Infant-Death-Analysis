@@ -26,6 +26,14 @@ The interactive dashboard helps to track the following:
 🔹 Identified and flagged high-risk maternal cases
 🔹 Prepared structured dataset for analysis and visualization
 
+## 🚀 How to Use
+
+1. Download and open the Excel dashboard in Microsoft Excel
+2. Use interactive slicers and filters to explore key health indicators
+3. Scroll down to access additional analysis sections and detailed reports
+4. Navigate across sheets to analyze Taluk-wise and PHC-level data, with dynamic updates based on selections
+5. Use the macro-enabled Taluk selector (top-right corner) to quickly switch between different Taluks and view corresponding reports
+
 ## 📈 Key Insights
 
 1. A significant proportion of deaths were non-preventable, highlighting clinical severity
