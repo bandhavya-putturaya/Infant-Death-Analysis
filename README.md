@@ -35,4 +35,4 @@ The interactive dashboard helps to track the following:
 5. Maternal conditions such as anaemia and hypertensive disorders show strong association
 
 ## Dashbaord preview
-[Infant & Neonatal Analysis Dashbaord](https://github.com/bandhavya-putturaya/Infant-Death-Analysis/blob/main/Main_Dashboard__Preview.png)
+![Infant & Neonatal Analysis Dashbaord](https://github.com/bandhavya-putturaya/Infant-Death-Analysis/blob/main/Main_Dashboard__Preview.png)
